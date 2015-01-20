@@ -1,0 +1,19 @@
+--- !ruby/object:Hangman
+save_dir: saved_games
+word: albee
+guesses_remaining: 9
+guesses:
+- d
+- g
+- r
+- t
+- y
+- d
+- a
+solution:
+- a
+- _
+- _
+- _
+- _
+victory_state: none

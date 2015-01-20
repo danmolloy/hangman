@@ -1,0 +1,17 @@
+--- !ruby/object:Hangman
+save_dir: saved_games
+word: kyrgyzstan
+guesses_remaining: 16
+guesses: []
+solution:
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+victory_state: none
